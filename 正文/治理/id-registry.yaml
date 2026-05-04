@@ -41,9 +41,15 @@ entries:
   - id: PLC-DISTRICT
     title: 街区分层与层级（总述）
     path: 设定真值/10-百科/地点/PLC-DISTRICT-街区分层与层级.md
+  - id: PLC-RUINS
+    title: 废墟区（第九区事变遗留片区）
+    path: 设定真值/10-百科/地点/PLC-RUINS-废墟区.md
   - id: SYS-B9002
     title: 桥接体 B-9002（调度核心）与玩家职能
     path: 设定真值/10-百科/系统/SYS-B9002-桥接体与调度核心职能.md
+  - id: SYS-PREV-BRIDGE
+    title: 前任桥接体与第九区废墟事变（作者真值分层）
+    path: 设定真值/10-百科/系统/SYS-PREV-BRIDGE-前任桥接体与废墟事变.md
   - id: SYS-WORKFORCE
     title: 员工来源与编组风险
     path: 设定真值/10-百科/系统/SYS-WORKFORCE-员工来源与编组风险.md

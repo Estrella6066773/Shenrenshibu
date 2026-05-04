@@ -20,10 +20,12 @@
 | [ORG-GANG-LEOPARD](组织/ORG-GANG-LEOPARD-花豹党.md) | 花豹党 |
 | [ORG-REBEL](组织/ORG-REBEL-反抗军.md) | 反抗军 |
 | [PLC-DISTRICT](地点/PLC-DISTRICT-街区分层与层级.md) | 街区分层与层级（总述） |
+| [PLC-RUINS](地点/PLC-RUINS-废墟区.md) | 废墟区（第九区事变遗留片区） |
 | [SYS-B9002](系统/SYS-B9002-桥接体与调度核心职能.md) | 桥接体 B-9002（调度核心）与玩家职能 |
+| [SYS-PREV-BRIDGE](系统/SYS-PREV-BRIDGE-前任桥接体与废墟事变.md) | 前任桥接体与第九区废墟事变（作者真值分层） |
 | [SYS-WORKFORCE](系统/SYS-WORKFORCE-员工来源与编组风险.md) | 员工来源与编组风险 |
 | [SYS-CONFLICT](系统/SYS-CONFLICT-员工冲突机制.md) | 员工冲突机制 |
-| [SYS-DELEGATION](系统/SYS-DELEGATION-外包签字与责任转嫁.md) | 外包责任与背锅机制 |
+| [SYS-DELEGATION](系统/SYS-DELEGATION-外包签字与责任转嫁.md) | 外包、签字与责任转嫁 |
 | [SYS-PRIORITY](系统/SYS-PRIORITY-委托受理与处置优先序.md) | 委托受理与处置优先序 |
 | [ENT-CULTURE](文化/ENT-CULTURE-企业文化与话语口径.md) | 企业文化与话语口径 |
 | [ENT-HUMANNEC](文化/ENT-HUMANNEC-人类必要性的工具性界定.md) | 人类必要性的工具性界定 |

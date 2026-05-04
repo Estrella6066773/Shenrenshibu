@@ -41,10 +41,12 @@ visibility: internal
 | 自动化医疗灰接口 | 自动化医疗节点；伪造病历、药品走私与人体改造等灰线之接口。 |
 | 舆情宣传放大节点 | 巨型屏幕投放企业口号与关键绩效指标；舆情事件与群体骚乱之放大器。 |
 
-上述名称均为**叙事功能类型**，不等于已定名地标；第九区具体地名未定前，不设对应独立百科地点条目。
+除已定名之事变遗留片区 **废墟区**（见 [PLC-RUINS](../10-百科/地点/PLC-RUINS-废墟区.md)）外，上述名称均为**叙事功能类型**，不等于已定名地标；其余具体地名仍可再行赋值。
 
 ## 第四条　关联条文
 
 - [PLC-DISTRICT](../10-百科/地点/PLC-DISTRICT-街区分层与层级.md) 街区分层与层级（总述）  
+- [PLC-RUINS](../10-百科/地点/PLC-RUINS-废墟区.md) 废墟区  
+- [SYS-PREV-BRIDGE](../10-百科/系统/SYS-PREV-BRIDGE-前任桥接体与废墟事变.md) 前任桥接体与废墟事变（成因分层）  
 - [ORG-GANG-WOLF](../10-百科/组织/ORG-GANG-WOLF-狼群.md)、[ORG-GANG-HYENA](../10-百科/组织/ORG-GANG-HYENA-鬣狗帮.md)、[ORG-GANG-LEOPARD](../10-百科/组织/ORG-GANG-LEOPARD-花豹党.md)、[ORG-REBEL](../10-百科/组织/ORG-REBEL-反抗军.md) 各势力之地盘与行动风格  
 - [SYS-PRIORITY](../10-百科/系统/SYS-PRIORITY-委托受理与处置优先序.md) 委托受理与处置优先序  
