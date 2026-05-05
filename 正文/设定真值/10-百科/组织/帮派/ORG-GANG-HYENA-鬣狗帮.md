@@ -43,6 +43,6 @@ visibility: internal
 ## 第六条　关联条文
 
 - [WLD-02](../../00-基石/WLD-02-企业辖区的空间分层模型.md) 企业辖区的空间分层模型（含公共空间类型纲要）  
-- [ORG-HRDEPT](ORG-HRDEPT-社区事务人事部.md) 社区事务人事部  
-- [ORG-REBEL](ORG-REBEL-反抗军.md) 反抗军  
+- [ORG-HRDEPT](../ORG-HRDEPT-人类事务管理部.md) 社区事务与临时人力调度部（亦称人类事务管理部）  
+- [ORG-REBEL](../ORG-REBEL-反抗军.md) 反抗军  
 - [ORG-GANG-WOLF](ORG-GANG-WOLF-狼群.md) “狼群”  

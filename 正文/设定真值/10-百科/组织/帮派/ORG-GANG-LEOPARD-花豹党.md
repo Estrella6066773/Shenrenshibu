@@ -35,4 +35,4 @@ visibility: internal
 
 - [WLD-02](../../00-基石/WLD-02-企业辖区的空间分层模型.md) 企业辖区的空间分层模型  
 - [ORG-GANG-WOLF](ORG-GANG-WOLF-狼群.md) “狼群”  
-- [ORG-REBEL](ORG-REBEL-反抗军.md) 反抗军  
+- [ORG-REBEL](../ORG-REBEL-反抗军.md) 反抗军  

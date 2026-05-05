@@ -13,7 +13,7 @@ visibility: internal
 
 ## 第二条　关系定位
 
-| 势力 | 与人事部（[ORG-HRDEPT](../10-百科/组织/ORG-HRDEPT-社区事务人事部.md)）之结构关系 |
+| 势力 | 与人事部（**社区事务与临时人力调度部**／**人类事务管理部**；[ORG-HRDEPT](../10-百科/组织/ORG-HRDEPT-人类事务管理部.md)）之结构关系 |
 |------|--------------------------------------|
 | “狼群” | 由流亡家族构成之联合体，追求秩序与地盘合法化，较易形成长期外包合作，亦可能因背锅与扶持竞争翻脸。 |
 | 鬣狗帮 | 对多个机会主义团伙的统称，追求混乱窗口期之利润极大化，为高波动不稳定变量，合作即伴随高勒索与反噬概率。 |
@@ -23,4 +23,4 @@ visibility: internal
 
 ## 第三条　关联条文
 
-各势力详细条文见 [ORG-GANG-WOLF](../10-百科/组织/ORG-GANG-WOLF-狼群.md)、[ORG-GANG-HYENA](../10-百科/组织/ORG-GANG-HYENA-鬣狗帮.md)、[ORG-GANG-LEOPARD](../10-百科/组织/ORG-GANG-LEOPARD-花豹党.md)、[ORG-REBEL](../10-百科/组织/ORG-REBEL-反抗军.md)。
+各势力详细条文见 [ORG-GANG-WOLF](../10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md)、[ORG-GANG-HYENA](../10-百科/组织/帮派/ORG-GANG-HYENA-鬣狗帮.md)、[ORG-GANG-LEOPARD](../10-百科/组织/帮派/ORG-GANG-LEOPARD-花豹党.md)、[ORG-REBEL](../10-百科/组织/ORG-REBEL-反抗军.md)。

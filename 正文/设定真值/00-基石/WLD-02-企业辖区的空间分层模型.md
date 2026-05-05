@@ -11,7 +11,7 @@ visibility: internal
 
 本条文界定**第九区内部**城市空间之**分层叙事模型**，用于统一任务发生地、监控密度、法治外观与灰色经济之逻辑，避免「同一街区在不同文本中自相矛盾」。
 
-须明确：本条文中的 A/B/C 分层为**人事部与相关执行链路的内部工作划分**，并非法定或对外公布之官方行政区划。
+须明确：本条文中的 A/B/C 分层为**人事部**（**社区事务与临时人力调度部**，亦称**人类事务管理部**）与相关执行链路的内部工作划分，并非法定或对外公布之官方行政区划。
 
 ## 第二条　三层结构
 
@@ -48,5 +48,5 @@ visibility: internal
 - [PLC-DISTRICT](../10-百科/地点/PLC-DISTRICT-街区分层与层级.md) 街区分层与层级（总述）  
 - [PLC-RUINS](../10-百科/地点/PLC-RUINS-废墟区.md) 废墟区  
 - [SYS-PREV-BRIDGE](../10-百科/系统/SYS-PREV-BRIDGE-前任桥接体与废墟事变.md) 前任桥接体与废墟事变（成因分层）  
-- [ORG-GANG-WOLF](../10-百科/组织/ORG-GANG-WOLF-狼群.md)、[ORG-GANG-HYENA](../10-百科/组织/ORG-GANG-HYENA-鬣狗帮.md)、[ORG-GANG-LEOPARD](../10-百科/组织/ORG-GANG-LEOPARD-花豹党.md)、[ORG-REBEL](../10-百科/组织/ORG-REBEL-反抗军.md) 各势力之地盘与行动风格  
+- [ORG-GANG-WOLF](../10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md)、[ORG-GANG-HYENA](../10-百科/组织/帮派/ORG-GANG-HYENA-鬣狗帮.md)、[ORG-GANG-LEOPARD](../10-百科/组织/帮派/ORG-GANG-LEOPARD-花豹党.md)、[ORG-REBEL](../10-百科/组织/ORG-REBEL-反抗军.md) 各势力之地盘与行动风格  
 - [SYS-PRIORITY](../10-百科/系统/SYS-PRIORITY-委托受理与处置优先序.md) 委托受理与处置优先序  

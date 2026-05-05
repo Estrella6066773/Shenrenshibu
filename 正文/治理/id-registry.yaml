@@ -21,20 +21,20 @@ entries:
     title: 赫利俄斯集团
     path: 设定真值/10-百科/组织/ORG-HELIOS-赫利俄斯集团.md
   - id: ORG-HRDEPT
-    title: 社区事务与临时人力调度部
-    path: 设定真值/10-百科/组织/ORG-HRDEPT-社区事务人事部.md
+    title: 社区事务与临时人力调度部（亦称人类事务管理部）
+    path: 设定真值/10-百科/组织/ORG-HRDEPT-人类事务管理部.md
   - id: ORG-HRDEPT-SCO
     title: 特殊综合行动小组（人事部辖内）
     path: 设定真值/10-百科/组织/ORG-HRDEPT-SCO-特殊综合行动小组.md
   - id: ORG-GANG-WOLF
     title: “狼群”
-    path: 设定真值/10-百科/组织/ORG-GANG-WOLF-狼群.md
+    path: 设定真值/10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md
   - id: ORG-GANG-HYENA
     title: 鬣狗帮
-    path: 设定真值/10-百科/组织/ORG-GANG-HYENA-鬣狗帮.md
+    path: 设定真值/10-百科/组织/帮派/ORG-GANG-HYENA-鬣狗帮.md
   - id: ORG-GANG-LEOPARD
     title: 花豹党
-    path: 设定真值/10-百科/组织/ORG-GANG-LEOPARD-花豹党.md
+    path: 设定真值/10-百科/组织/帮派/ORG-GANG-LEOPARD-花豹党.md
   - id: ORG-REBEL
     title: 反抗军
     path: 设定真值/10-百科/组织/ORG-REBEL-反抗军.md

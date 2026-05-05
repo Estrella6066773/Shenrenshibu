@@ -45,6 +45,6 @@ visibility: internal
 ## 第六条　关联条文
 
 - [WLD-02](../../00-基石/WLD-02-企业辖区的空间分层模型.md) 企业辖区的空间分层模型  
-- [ORG-HRDEPT](ORG-HRDEPT-社区事务人事部.md) 社区事务人事部  
+- [ORG-HRDEPT](../ORG-HRDEPT-人类事务管理部.md) 社区事务与临时人力调度部（亦称人类事务管理部）  
 - [ORG-GANG-HYENA](ORG-GANG-HYENA-鬣狗帮.md) 鬣狗帮  
 - [ORG-GANG-LEOPARD](ORG-GANG-LEOPARD-花豹党.md) 花豹党  
