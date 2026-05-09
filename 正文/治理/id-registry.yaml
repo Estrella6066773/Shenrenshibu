@@ -9,8 +9,8 @@ entries:
     title: 自动化秩序与人类岗位
     path: 设定真值/00-基石/WLD-01-自动化秩序与人类岗位.md
   - id: WLD-02
-    title: 企业辖区的空间分层模型
-    path: 设定真值/00-基石/WLD-02-企业辖区的空间分层模型.md
+    title: 辖区空间分层
+    path: 设定真值/00-基石/WLD-02-辖区空间分层.md
   - id: WLD-03
     title: 人事部分权结构总览
     path: 设定真值/00-基石/WLD-03-人事部分权结构总览.md
@@ -21,7 +21,7 @@ entries:
     title: 赫利俄斯集团
     path: 设定真值/10-百科/组织/ORG-HELIOS-赫利俄斯集团.md
   - id: ORG-HRDEPT
-    title: 社区事务与临时人力调度部（亦称人类事务管理部）
+    title: 人类事务管理部（通称人事部）
     path: 设定真值/10-百科/组织/ORG-HRDEPT-人类事务管理部.md
   - id: ORG-HRDEPT-SCO
     title: 特殊综合行动小组（人事部辖内）
@@ -40,16 +40,16 @@ entries:
     path: 设定真值/10-百科/组织/ORG-REBEL-反抗军.md
   - id: PLC-DISTRICT
     title: 街区分层与层级（总述）
-    path: 设定真值/10-百科/地点/PLC-DISTRICT-街区分层与层级.md
+    path: 设定真值/10-百科/地点/PLC-DISTRICT-街区分层与层级-总述.md
   - id: PLC-RUINS
     title: 废墟区（第九区事变遗留片区）
-    path: 设定真值/10-百科/地点/PLC-RUINS-废墟区.md
+    path: 设定真值/10-百科/地点/PLC-RUINS-废墟区-第九区事变遗留片区.md
   - id: SYS-B9002
     title: 桥接体 B-9002（调度核心）与玩家职能
     path: 设定真值/10-百科/系统/SYS-B9002-桥接体与调度核心职能.md
   - id: SYS-PREV-BRIDGE
     title: 前任桥接体与第九区废墟事变（作者真值分层）
-    path: 设定真值/10-百科/系统/SYS-PREV-BRIDGE-前任桥接体与废墟事变.md
+    path: 设定真值/10-百科/系统/SYS-PREV-BRIDGE-前任桥接体与第九区废墟事变.md
   - id: SYS-WORKFORCE
     title: 员工来源与编组风险
     path: 设定真值/10-百科/系统/SYS-WORKFORCE-员工来源与编组风险.md
@@ -66,8 +66,8 @@ entries:
     title: 企业文化与话语口径
     path: 设定真值/10-百科/文化/ENT-CULTURE-企业文化与话语口径.md
   - id: ENT-HUMANNEC
-    title: 人类必要性的工具性界定
-    path: 设定真值/10-百科/文化/ENT-HUMANNEC-人类必要性的工具性界定.md
+    title: 对人类必要性的工具化界定
+    path: 设定真值/10-百科/文化/ENT-HUMANNEC-对人类必要性的工具化界定.md
   - id: NAR-00
     title: 叙事母题与基调
     path: 设定真值/20-叙事合同/NAR-00-叙事母题与基调.md
@@ -78,5 +78,17 @@ entries:
     title: 玩家责任与叙事红线
     path: 设定真值/20-叙事合同/NAR-02-玩家责任与叙事红线.md
   - id: PCM-00
-    title: 主角经理与主线文档区说明与边界
-    path: 设定真值/30-主角经理与主线/PCM-00-文档区说明与边界.md
+    title: 主角与主线：使用范围与边界
+    path: 设定真值/30-主角与主线/PCM-00-使用范围与边界.md
+  - id: TIM-00
+    title: 时序索引
+    path: 设定真值/40-时序与历史/TIM-00-时序索引.md
+  - id: TIM-01
+    title: 历史线关键节点
+    path: 设定真值/40-时序与历史/TIM-01-历史线关键节点.md
+  - id: TIM-02
+    title: 城市历史母线（城市A）
+    path: 设定真值/40-时序与历史/TIM-02-城市历史母线.md
+  - id: TIM-03
+    title: 世界历史总线
+    path: 设定真值/40-时序与历史/TIM-03-世界历史总线.md
