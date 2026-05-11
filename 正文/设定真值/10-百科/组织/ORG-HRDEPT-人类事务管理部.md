@@ -36,9 +36,15 @@ aliases:
 
 部长下设四科：财务、人力、防卫、服务。分权与牵制见 [WLD-03](../../00-基石/WLD-03-人事部分权结构总览.md)。特殊综合行动小组与四科并行，详见 [ORG-HRDEPT-SCO](ORG-HRDEPT-SCO-特殊综合行动小组.md)。
 
-## 第五条　关联条文
+## 第五条　历史节点（第九区事变与人事冲击）
+
+约十五年前第九区辖区灾难及废墟事变链（[SYS-PREV-BRIDGE](../系统/SYS-PREV-BRIDGE-前任桥接体与第九区废墟事变.md)）中，本部曾遭受**毁灭性打击**：叙事上可呈现为指挥链受创、可信人力断层与外包／重建体系崩盘；其后编制收紧、特许编组化与现任桥接体授权收窄，须与 [ORG-HRDEPT-SCO](ORG-HRDEPT-SCO-特殊综合行动小组.md)、[SYS-B9002](../系统/SYS-B9002-桥接体与调度核心职能.md) 对读。公众舆论层面的连锁反应见 [ENT-AIBACKLASH](../文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md)。
+
+## 第六条　关联条文
 
 - [ORG-HRDEPT-SCO](ORG-HRDEPT-SCO-特殊综合行动小组.md) 特殊综合行动小组  
+- [SYS-PREV-BRIDGE](../系统/SYS-PREV-BRIDGE-前任桥接体与第九区废墟事变.md) 前任桥接体与第九区废墟事变  
+- [ENT-AIBACKLASH](../文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md) 人工智能污名与第九区事变情绪遗产  
 - [WLD-03](../../00-基石/WLD-03-人事部分权结构总览.md) 人事部分权结构总览  
 - [SYS-DELEGATION](../系统/SYS-DELEGATION-外包签字与责任转嫁.md) 外包、签字与责任转嫁  
 - [SYS-PRIORITY](../系统/SYS-PRIORITY-委托受理与处置优先序.md) 委托受理与处置优先序  

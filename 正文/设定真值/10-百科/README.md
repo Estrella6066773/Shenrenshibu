@@ -19,6 +19,7 @@
 | [ORG-GANG-HYENA](组织/帮派/ORG-GANG-HYENA-鬣狗帮.md) | 鬣狗帮 |
 | [ORG-GANG-LEOPARD](组织/帮派/ORG-GANG-LEOPARD-花豹党.md) | 花豹党 |
 | [ORG-REBEL](组织/ORG-REBEL-反抗军.md) | 反抗军 |
+| [ORG-MOV-BRIDGECULT](组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md) | 彼岸范式参照运动（前任桥接体隐秘追随网络） |
 | [PLC-DISTRICT](地点/PLC-DISTRICT-街区分层与层级-总述.md) | 街区分层与层级（总述） |
 | [PLC-RUINS](地点/PLC-RUINS-废墟区-第九区事变遗留片区.md) | 废墟区（第九区事变遗留片区） |
 | [SYS-B9002](系统/SYS-B9002-桥接体与调度核心职能.md) | 桥接体 B-9002（调度核心）与玩家职能 |
@@ -29,3 +30,4 @@
 | [SYS-PRIORITY](系统/SYS-PRIORITY-委托受理与处置优先序.md) | 委托受理与处置优先序 |
 | [ENT-CULTURE](文化/ENT-CULTURE-企业文化与话语口径.md) | 企业文化与话语口径 |
 | [ENT-HUMANNEC](文化/ENT-HUMANNEC-对人类必要性的工具化界定.md) | 对人类必要性的工具化界定 |
+| [ENT-AIBACKLASH](文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md) | 人工智能污名与第九区事变情绪遗产 |
