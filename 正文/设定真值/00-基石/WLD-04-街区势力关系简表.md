@@ -19,9 +19,10 @@ visibility: internal
 | 鬣狗帮 | 对一批机会主义团伙的统称，专于乱局窗口抬价套利，波动大、稳定性低；一旦合作，往往伴随高勒索与反噬风险。 |
 | 花豹党 | 强调社区自保与延续，依托地理与人脉门槛，与人事部既有合作空间，也存在摩擦。 |
 | 反抗军 | 以改变统治规则为目标，常为主线推进与道德困境的来源；与人事部可同时存在公开敌对、私下交易与渗透。 |
-| 彼岸范式参照运动 | 有组织的社会运动／网络，公开教义美化彼岸一侧的人工智能—社会结盟想像；高层秘知追随对象为前任调度核心，与人事部及舆情接口可呈利用、渗透或摩擦（真值见 [ORG-MOV-BRIDGECULT](../10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)）。 |
+| 自由人联合阵线 | 跨城武装—政治网络之一翼；于本市曾与企业在沦陷区拉锯，主力撤出后仍有残余势力在联合州北部（真值见 [ORG-MOV-FUF](../10-百科/组织/ORG-MOV-FUF-自由人联合阵线.md)）；人事部外宣常与叛乱／废墟叙事捆绑。 |
+| 彼岸范式参照运动 | 有组织的社会运动／网络，公开教义美化彼岸一侧的人工智能—社会结盟想像；情报分层上高层可能秘知追随对象与前任实例相关机密，与人事部及舆情接口可呈利用、渗透或摩擦（真值见 [ORG-MOV-BRIDGECULT](../10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)）。 |
 | 人事部 | 制度目标是完成委托并控制损失；原则上可与各势力开展交易，也可能在审计与舆情压力下面临归责。 |
 
 ## 第三条　关联条文
 
-各势力详见 [ORG-GANG-WOLF](../10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md)、[ORG-GANG-HYENA](../10-百科/组织/帮派/ORG-GANG-HYENA-鬣狗帮.md)、[ORG-GANG-LEOPARD](../10-百科/组织/帮派/ORG-GANG-LEOPARD-花豹党.md)、[ORG-REBEL](../10-百科/组织/ORG-REBEL-反抗军.md)、[ORG-MOV-BRIDGECULT](../10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)。
+各势力详见 [ORG-GANG-WOLF](../10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md)、[ORG-GANG-HYENA](../10-百科/组织/帮派/ORG-GANG-HYENA-鬣狗帮.md)、[ORG-GANG-LEOPARD](../10-百科/组织/帮派/ORG-GANG-LEOPARD-花豹党.md)、[ORG-REBEL](../10-百科/组织/ORG-REBEL-反抗军.md)、[ORG-MOV-FUF](../10-百科/组织/ORG-MOV-FUF-自由人联合阵线.md)、[ORG-MOV-BRIDGECULT](../10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)。

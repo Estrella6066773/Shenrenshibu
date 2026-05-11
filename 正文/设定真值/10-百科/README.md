@@ -19,6 +19,7 @@
 | [ORG-GANG-HYENA](组织/帮派/ORG-GANG-HYENA-鬣狗帮.md) | 鬣狗帮 |
 | [ORG-GANG-LEOPARD](组织/帮派/ORG-GANG-LEOPARD-花豹党.md) | 花豹党 |
 | [ORG-REBEL](组织/ORG-REBEL-反抗军.md) | 反抗军 |
+| [ORG-MOV-FUF](组织/ORG-MOV-FUF-自由人联合阵线.md) | 自由人联合阵线 |
 | [ORG-MOV-BRIDGECULT](组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md) | 彼岸范式参照运动（前任桥接体隐秘追随网络） |
 | [PLC-DISTRICT](地点/PLC-DISTRICT-街区分层与层级-总述.md) | 街区分层与层级（总述） |
 | [PLC-RUINS](地点/PLC-RUINS-废墟区-第九区事变遗留片区.md) | 废墟区（第九区事变遗留片区） |
