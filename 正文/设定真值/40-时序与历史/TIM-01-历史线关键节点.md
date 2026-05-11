@@ -46,5 +46,5 @@ visibility: internal
 - [ORG-HELIOS](../10-百科/组织/ORG-HELIOS-赫利俄斯集团.md) 赫利俄斯集团  
 - [ORG-GANG-WOLF](../10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md) 「狼群」  
 - [ORG-MOV-FUF](../10-百科/组织/ORG-MOV-FUF-自由人联合阵线.md) 自由人联合阵线  
-- [PLC-DISTRICT](../10-百科/地点/PLC-DISTRICT-街区分层与层级-总述.md) 街区分层与层级  
+- [PLC-DISTRICT](../10-百科/地点/PLC-DISTRICT-街区分层与层级-总述.md) 第九区分片与安全等级（总述）  
 - [TIM-02](TIM-02-城市历史母线.md)、[TIM-03](TIM-03-世界历史总线.md)、[TIM-04](TIM-04-前管理者执政与第九区事态背景年表.md)

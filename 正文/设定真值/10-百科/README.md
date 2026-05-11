@@ -23,7 +23,7 @@
 | [ORG-REBEL](组织/ORG-REBEL-反抗军.md) | 反抗军 |
 | [ORG-MOV-FUF](组织/ORG-MOV-FUF-自由人联合阵线.md) | 自由人联合阵线 |
 | [ORG-MOV-BRIDGECULT](组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md) | 彼岸范式参照运动（前任桥接体隐秘追随网络） |
-| [PLC-DISTRICT](地点/PLC-DISTRICT-街区分层与层级-总述.md) | 街区分层与层级（总述） |
+| [PLC-DISTRICT](地点/PLC-DISTRICT-街区分层与层级-总述.md) | 第九区分片与安全等级（总述） |
 | [PLC-RUINS](地点/PLC-RUINS-废墟区-第九区事变遗留片区.md) | 废墟区（第九区事变遗留片区） |
 | [SYS-B9002](系统/SYS-B9002-桥接体与调度核心职能.md) | 桥接体 B-9002（调度核心）与玩家职能 |
 | [SYS-PREV-BRIDGE](系统/SYS-PREV-BRIDGE-前任桥接体与第九区废墟事变.md) | 前任桥接体与第九区废墟事变（作者真值分层） |
