@@ -4,6 +4,6 @@
 
 ## 版本目录规则
 
-- 每一子版本（如 `v0.1`）须包含：`README.md`、`CHANGELOG.md`、`manifest.yaml` 与 `对外读本/`。  
-- `manifest.yaml` 列明本版本对外生效的设定 `id` 集合；增删须伴随 `CHANGELOG` 记录。  
-- 未经审批不得将 `visibility: internal` 之条文整段复制至 `对外读本/`。
+- 每一子版本（如 `v0.1`）要包含：`README.md`、`CHANGELOG.md`、`manifest.yaml` 与 `对外读本/`。  
+- `manifest.yaml` 列明本版本对外生效的设定 `id` 集合；增删要伴随 `CHANGELOG` 记录。  
+- 未经审批不得将 `visibility: internal` 的条文整段复制到 `对外读本/`。
