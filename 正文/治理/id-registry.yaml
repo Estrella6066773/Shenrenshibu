@@ -20,6 +20,12 @@ entries:
   - id: ORG-HELIOS
     title: 赫利俄斯集团
     path: 设定真值/10-百科/组织/ORG-HELIOS-赫利俄斯集团.md
+  - id: ORG-MILDEPT
+    title: 军用武装管理部（通称军武部／军部）
+    path: 设定真值/10-百科/组织/ORG-MILDEPT-军部.md
+  - id: ORG-TECHDEPT
+    title: 技术研发管理部（通称技术部）
+    path: 设定真值/10-百科/组织/ORG-TECHDEPT-技术部.md
   - id: ORG-HRDEPT
     title: 人类事务管理部（通称人事部）
     path: 设定真值/10-百科/组织/ORG-HRDEPT-人类事务管理部.md

@@ -15,6 +15,8 @@
 | id | 标题 |
 |----|------|
 | [ORG-HELIOS](组织/ORG-HELIOS-赫利俄斯集团.md) | 赫利俄斯集团 |
+| [ORG-MILDEPT](组织/ORG-MILDEPT-军部.md) | 军用武装管理部（通称军武部／军部） |
+| [ORG-TECHDEPT](组织/ORG-TECHDEPT-技术部.md) | 技术研发管理部（通称技术部） |
 | [ORG-HRDEPT](组织/ORG-HRDEPT-人类事务管理部.md) | 人类事务管理部（通称人事部） |
 | [ORG-HRDEPT-SCO](组织/ORG-HRDEPT-SCO-特殊综合行动小组.md) | 特殊综合行动小组 |
 | [ORG-GANG-WOLF](组织/帮派/ORG-GANG-WOLF-狼群.md) | “狼群” |
