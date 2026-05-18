@@ -336,6 +336,11 @@ def main() -> int:
         help="与 --fix 联用：将正文/ 下已修改文件执行 git add（纳入本次提交，不 push）",
     )
     parser.add_argument(
+        "--quiet",
+        action="store_true",
+        help="成功且无自动修正时不输出（供 pre-commit 使用，便于终端自动收起）",
+    )
+    parser.add_argument(
         "--fix-malformed",
         action="store_true",
         help="（已并入 --fix）仅修复缺 ]( 的畸形链接",
@@ -348,15 +353,18 @@ def main() -> int:
         return 1
 
     do_fix = args.fix or args.fix_malformed
+    fixed_count = 0
+    fix_log: list[str] = []
 
     if do_fix:
-        total, log = run_auto_fix(root)
-        if log:
-            print(f"已自动修正 {total} 处：")
-            print("\n".join(log))
+        fixed_count, fix_log = run_auto_fix(root)
+        if fix_log and not args.quiet:
+            print(f"已自动修正 {fixed_count} 处：")
+            print("\n".join(fix_log))
         if args.stage_fixed:
             stage_fixed_files(root, repo_root())
-            print("已将 正文/ 下变更加入暂存区（git add）。")
+            if fix_log and not args.quiet:
+                print("已将 正文/ 下变更加入暂存区（git add）。")
 
     broken, malformed, ok = scan_links(root)
     reg_issues, registry_ids = scan_registry(root)
@@ -364,10 +372,20 @@ def main() -> int:
 
     total_bad = len(broken) + len(malformed) + len(reg_issues) + len(manifest_issues)
     if total_bad:
+        if fix_log:
+            print(f"自动修正 {fixed_count} 处后仍有未解决问题：")
+            print("\n".join(fix_log))
         print()
         print_issues(malformed, broken, reg_issues, manifest_issues)
         print("\n书写约定见：正文/治理/03-内部链接书写规则.md")
         return 1
+
+    if args.quiet and fixed_count == 0:
+        return 0
+
+    if args.quiet and fixed_count > 0:
+        print(f"正文链接检查：已自动修正 {fixed_count} 处并已暂存。")
+        return 0
 
     md_count = len(list(root.rglob("*.md")))
     print(

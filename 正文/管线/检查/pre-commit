@@ -1,13 +1,30 @@
 #!/bin/sh
-# 提交前：尝试自动修正 正文/ 内链接 → 复检 → 将修正纳入暂存区
-# 安装：git config core.hooksPath 正文/管线/检查
+# 唯一提交前钩子（core.hooksPath 指向本目录）
+# 跳过：git commit --no-verify  或  SKIP_CANON_LINK_CHECK=1
 
 set -e
+
+if [ -n "$SKIP_CANON_LINK_CHECK" ]; then
+  exit 0
+fi
 
 ROOT="$(git rev-parse --show-toplevel 2>/dev/null || true)"
 if [ -z "$ROOT" ]; then
   ROOT="$(cd "$(dirname "$0")/../../.." && pwd)"
 fi
-
 cd "$ROOT" || exit 1
-exec python "正文/管线/检查/check-links.py" --fix --stage-fixed
+
+# 暂存区未改动正文 Markdown 时不运行
+if ! git diff --cached --name-only --diff-filter=ACMR 2>/dev/null | grep -qE '^正文/.*\.md$'; then
+  exit 0
+fi
+
+LOCK="$ROOT/正文/.link-check.lock"
+if [ -f "$LOCK" ]; then
+  # 防止 hooksPath 与旧钩子、IDE 连续触发时跑两遍
+  exit 0
+fi
+trap 'rm -f "$LOCK"' EXIT INT TERM
+: >"$LOCK"
+
+exec python "正文/管线/检查/check-links.py" --fix --stage-fixed --quiet
