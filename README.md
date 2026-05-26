@@ -13,4 +13,4 @@ GitHub 原仓库：**[Estrella6066773/ShenrenshibuStoryLib](https://github.com/E
 | 程序设计 | [程序设计/](程序设计/README.md) |
 | 正文（世界观与叙事） | [正文/00-START-HERE.md](正文/00-START-HERE.md) |
 
-Unity 主工程通过子模块引用本仓库：`神人事部/Docs/ShenrenshibuStoryLib/`。见 [00-工程集成说明.md](00-工程集成说明.md)。
+本地检出路径：`神人事部/Docs/ShenrenshibuStoryLib/`（Unity 根目录无 Git）。见 [00-工程集成说明.md](00-工程集成说明.md)。
