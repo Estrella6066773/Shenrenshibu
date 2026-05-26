@@ -1,0 +1,12 @@
+# 文档库行尾与合并（中文 Markdown 使用 CRLF）
+* text=auto
+
+*.md     text eol=crlf
+*.yaml   text eol=crlf
+*.yml    text eol=crlf
+
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.svg  text

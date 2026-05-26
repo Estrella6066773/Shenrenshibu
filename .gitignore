@@ -1,0 +1,10 @@
+# 操作系统与编辑器
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# 本地草稿（若存在）
+*.tmp
+*.bak
