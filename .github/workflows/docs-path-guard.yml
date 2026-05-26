@@ -1,4 +1,4 @@
-# 防止工程文档回退到 Assets/00_Docs（应由 Git 子模块 Docs/ 管理）
+# 防止工程文档回退到 Assets/00_Docs（应由 Docs/ 管理）
 name: Docs path guard
 
 on:
@@ -23,7 +23,7 @@ jobs:
           fi
           ADDED=$(git diff --name-only --diff-filter=A "$RANGE" -- 'Assets/00_Docs/*.md' 'Assets/00_Docs/**/*.md' || true)
           if [ -n "$ADDED" ]; then
-            echo "::error::Do not add Markdown under Assets/00_Docs. Use Docs/ShenrenshibuStoryLib/ instead:"
+            echo "::error::Do not add Markdown under Assets/00_Docs. Use Docs/ instead:"
             echo "$ADDED"
             exit 1
           fi
