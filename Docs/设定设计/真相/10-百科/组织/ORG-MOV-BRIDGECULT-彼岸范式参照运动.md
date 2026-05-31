@@ -20,10 +20,10 @@ aliases:
 
 ## 第三条　与污名情绪之对极
 
-本运动与 [ENT-AIBACKLASH](../文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md) 所写的 **厌 AI 治理情绪** 形成对极；同城并存为宜，不必压成只有一种舆论。
+本运动与 [ENT-AIBACKLASH](../文化/ENT-AIBACKLASH-人工智能污名化与第九区事变后的舆论分化.md) 所写的 **厌 AI 治理情绪** 形成对极；同城并存为宜，不必压成只有一种舆论。
 
 ## 第四条　关联条文
 
 - [SYS-PREV-BRIDGE](../系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md)  
 - [SYS-B9002](../系统/SYS-B9002-桥与玩家职能.md)  
-- [ENT-AIBACKLASH](../文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md)
+- [ENT-AIBACKLASH](../文化/ENT-AIBACKLASH-人工智能污名化与第九区事变后的舆论分化.md)

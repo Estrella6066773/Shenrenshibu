@@ -6,7 +6,7 @@
 
 ## 对外读本刷新与 manifest 对齐（ORG-MOV-FUF / TIM-04）
 
-- [对外读本/00-世界观导览与阅读分层.md](对外读本/00-世界观导览与阅读分层.md)：上篇第四节补充**情报节选与旧事呈现**的对外表述；下篇第六节增补 **废墟区**、[PLC-RUINS](../../设定真值/10-百科/地点/PLC-RUINS-废墟区-第九区事变遗留片区.md)、[PLC-DISTRICT](../../设定真值/10-百科/地点/PLC-DISTRICT-街区分层与层级-总述.md)；第七节增补事变后**舆论分叉**（[ENT-AIBACKLASH](../../设定真值/10-百科/文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md)、[ORG-MOV-BRIDGECULT](../../设定真值/10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)）及 **SYS-PREV-BRIDGE** 投放提示；文档说明明确与 `manifest.yaml` 的 **`id`** 对齐关系。
+- [对外读本/00-世界观导览与阅读分层.md](对外读本/00-世界观导览与阅读分层.md)：上篇第四节补充**情报节选与旧事呈现**的对外表述；下篇第六节增补 **废墟区**、[PLC-RUINS](../../设定真值/10-百科/地点/PLC-RUINS-废墟区-第九区事变遗留片区.md)、[PLC-DISTRICT](../../设定真值/10-百科/地点/PLC-DISTRICT-街区分层与层级-总述.md)；第七节增补事变后**舆论分叉**（[ENT-AIBACKLASH](../../设定真值/10-百科/文化/ENT-AIBACKLASH-人工智能污名化与第九区事变后的舆论分化.md)、[ORG-MOV-BRIDGECULT](../../设定真值/10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)）及 **SYS-PREV-BRIDGE** 投放提示；文档说明明确与 `manifest.yaml` 的 **`id`** 对齐关系。
 - [manifest.yaml](manifest.yaml)：`canon_ids` 补登 **ORG-MOV-FUF**、**TIM-04**，与读本既有考据链接一致。
 
 ## ORG-HRDEPT：建档称谓「人类事务管理部」与母本对齐
@@ -44,5 +44,5 @@
 ## 第九区事变遗产：人事冲击、厌 AI 情绪与彼岸参照运动
 
 - [SYS-PREV-BRIDGE](../../设定真值/10-百科/系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md) 中层真值增补：**人事部在事变链中遭受毁灭性打击**，以及公众舆论在 **厌人工智能治理** 与 **彼岸参照型狂热皈依** 之间的分叉。  
-- 新增文化真值 **[ENT-AIBACKLASH](../../设定真值/10-百科/文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md)**（人工智能污名与事变情绪遗产）；新增组织真值 **[ORG-MOV-BRIDGECULT](../../设定真值/10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)**（有组织网络；**仅高层知悉**隐秘追随对象为前任管理员）。  
+- 新增文化真值 **[ENT-AIBACKLASH](../../设定真值/10-百科/文化/ENT-AIBACKLASH-人工智能污名化与第九区事变后的舆论分化.md)**（人工智能污名化与第九区事变后的舆论分化）；新增组织真值 **[ORG-MOV-BRIDGECULT](../../设定真值/10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)**（有组织网络；**仅高层知悉**隐秘追随对象为前任管理员）。  
 - [ORG-HRDEPT](../../设定真值/10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 增补历史节点条；[WLD-04](../../设定真值/00-基石/WLD-04-街区势力关系简表.md) 势力表增补一行。`manifest.yaml` 已列入 **ENT-AIBACKLASH**、**ORG-MOV-BRIDGECULT**。

@@ -52,7 +52,7 @@ aliases:
 10. **第 18–24 年部长重建**：表层政务由伊莱·索伦以人类事务管理部部长身份主持；与 [ORG-HRDEPT](../组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 对照。  
 11. **七年不值得回收（判因）**：废墟区**作战困难**；残存 **军用级无人器械** **专精游击**、**阴险狡诈**，长期牵制**军部**清剿与搜查。企业对废墟的**强行探索**（深入、反复取样、拆毁节点）**代价过于高昂**（人力、装备、舆论与合规成本），无法换得稳定样本或地下服务器工程；故七年清剿与搜查后，**军部**裁定**不值得回收**；集团改以 **B-9002** 第二次实验替代深入回收。  
 12. **人事部的毁灭性打击**：事变处置链叠加问责与舆情震荡，使 **人类事务管理部**（[ORG-HRDEPT](../组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md)）在人员、一线资产与公众合法性上遭受**毁灭性打击**（可在**叙事生产稿**里落实为殉职规模、外包崩盘、职权真空或部长更迭等）；此为日后编制收紧与桥「信任度下降」的制度土壤之一。  
-13. **公众态度分叉**：详见 [ENT-AIBACKLASH](../文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md) 与 [ORG-MOV-BRIDGECULT](../组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)。
+13. **公众态度分叉**：详见 [ENT-AIBACKLASH](../文化/ENT-AIBACKLASH-人工智能污名化与第九区事变后的舆论分化.md) 与 [ORG-MOV-BRIDGECULT](../组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)。
 
 ## 第五条　人物职权链（中层）
 
@@ -94,7 +94,7 @@ aliases:
 - [CHR-SOLEN-ELI](../人物/CHR-SOLEN-ELI-伊莱·索伦.md)、[CHR-KAELEN-VOLOK](../人物/CHR-KAELEN-VOLOK-科恩·沃洛克.md)、[CHR-ISAAC-MOELLER](../人物/CHR-ISAAC-MOELLER-艾萨克·穆尔.md)、[CHR-SERENA-DAY](../人物/CHR-SERENA-DAY-瑟琳娜·昼.md)、[CHR-LYNWEI-CHANDRA](../人物/CHR-LYNWEI-CHANDRA-凌薇·钱德拉.md)、[CHR-MOEN](../人物/CHR-MOEN-摩恩夫人.md)  
 - [ORG-GANG-WOLF](../组织/帮派/ORG-GANG-WOLF-狼群.md)  
 - [ORG-MOV-FUF](../组织/ORG-MOV-FUF-自由人联合阵线.md)  
-- [ENT-AIBACKLASH](../文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md)  
+- [ENT-AIBACKLASH](../文化/ENT-AIBACKLASH-人工智能污名化与第九区事变后的舆论分化.md)  
 - [ORG-MOV-BRIDGECULT](../组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)  
 - [PLC-RUINS](../地点/PLC-RUINS-废墟区-第九区事变遗留片区.md)  
 - [WLD-02](../../00-基石/WLD-02-辖区空间分层.md)  
