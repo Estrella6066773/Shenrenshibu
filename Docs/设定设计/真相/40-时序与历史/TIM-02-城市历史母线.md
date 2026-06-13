@@ -76,7 +76,7 @@ visibility: internal
 
 ## 六、城市历史条目字段（可选用）
 
-创作扩展时可使用下列 YAML 片段统一字段（与 [治理/01-命名文件与ID规则](../../治理/01-命名文件与ID规则.md) 第三条 frontmatter 约定相容）：
+创作扩展时可使用下列 YAML 片段统一字段（与 [管理规则/01-命名文件与ID规则](../../管理规则/01-命名文件与ID规则.md) 第三条 frontmatter 约定相容）：
 
 ```yaml
 period_id: CITY-HIS-001

@@ -88,6 +88,6 @@ role: 人类事务管理部 · 服务科科长
 
 ## 关联正文（拟）
 
-- [SYS-PREV-BRIDGE](../../../../设定真值/10-百科/系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md)  
+- [SYS-PREV-BRIDGE](../../../../真相/10-百科/系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md)  
 - [CHR-MOEN-摩恩夫人.md](CHR-MOEN-摩恩夫人.md)、[CHR-SOLEN-ELI-伊莱·索伦.md](CHR-SOLEN-ELI-伊莱·索伦.md)  
 - [CHR-KAELEN-VOLOK-科恩·沃洛克.md](CHR-KAELEN-VOLOK-科恩·沃洛克.md)  

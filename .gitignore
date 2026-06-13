@@ -107,6 +107,9 @@ InitTestScene*.unity*
 # Unity 目录监视临时文件
 ~UnityDirMonSyncFile~*
 
+# Cursor AI 规则（本地配置，不进库）
+.cursor/rules/
+
 # 操作系统
 .DS_Store
 .DS_Store?

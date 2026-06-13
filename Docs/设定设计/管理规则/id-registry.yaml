@@ -4,122 +4,121 @@ registry_version: 1
 entries:
   - id: WLD-00
     title: 世界纪年与治理总纲
-    path: 设定真值/00-基石/WLD-00-世界纪年与治理总纲.md
+    path: 真相/00-基石/WLD-00-世界纪年与治理总纲.md
   - id: WLD-01
     title: 自动化秩序与人类岗位
-    path: 设定真值/00-基石/WLD-01-自动化秩序与人类岗位.md
+    path: 真相/00-基石/WLD-01-自动化秩序与人类岗位.md
   - id: WLD-02
     title: 辖区空间与城市分片（第九区·工业拆分·郊区不接商业）
-    path: 设定真值/00-基石/WLD-02-辖区空间分层.md
+    path: 真相/00-基石/WLD-02-辖区空间分层.md
   - id: WLD-03
     title: 人事部分权结构总览
-    path: 设定真值/00-基石/WLD-03-人事部分权结构总览.md
+    path: 真相/00-基石/WLD-03-人事部分权结构总览.md
   - id: WLD-04
     title: 街区势力关系简表
-    path: 设定真值/00-基石/WLD-04-街区势力关系简表.md
+    path: 真相/00-基石/WLD-04-街区势力关系简表.md
   - id: ORG-HELIOS
     title: 赫利俄斯集团
-    path: 设定真值/10-百科/组织/赫利俄斯/ORG-HELIOS-赫利俄斯集团.md
+    path: 真相/10-百科/组织/赫利俄斯/ORG-HELIOS-赫利俄斯集团.md
   - id: ORG-MILDEPT
     title: 军用武装管理部（通称军武部／军部）
-    path: 设定真值/10-百科/组织/赫利俄斯/ORG-MILDEPT-军用武装管理部.md
+    path: 真相/10-百科/组织/赫利俄斯/ORG-MILDEPT-军用武装管理部.md
   - id: ORG-TECHDEPT
     title: 技术研发管理部（通称技术部）
-    path: 设定真值/10-百科/组织/赫利俄斯/ORG-TECHDEPT-技术研发管理部.md
+    path: 真相/10-百科/组织/赫利俄斯/ORG-TECHDEPT-技术研发管理部.md
   - id: ORG-HRDEPT
     title: 人类事务管理部（通称人事部）
-    path: 设定真值/10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md
+    path: 真相/10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md
   - id: ORG-HRDEPT-SCO
     title: 特殊综合行动小组（隶属人事部）
-    path: 设定真值/10-百科/组织/赫利俄斯/ORG-HRDEPT-SCO-特殊综合行动小组.md
+    path: 真相/10-百科/组织/赫利俄斯/ORG-HRDEPT-SCO-特殊综合行动小组.md
   - id: ORG-GANG-WOLF
-    title: “狼群”
-    path: 设定真值/10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md
+    title: "狼群"
+    path: 真相/10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md
   - id: ORG-GANG-HYENA
     title: 鬣狗帮
-    path: 设定真值/10-百科/组织/帮派/ORG-GANG-HYENA-鬣狗帮.md
+    path: 真相/10-百科/组织/帮派/ORG-GANG-HYENA-鬣狗帮.md
   - id: ORG-GANG-LEOPARD
     title: 花豹党
-    path: 设定真值/10-百科/组织/帮派/ORG-GANG-LEOPARD-花豹党.md
+    path: 真相/10-百科/组织/帮派/ORG-GANG-LEOPARD-花豹党.md
   - id: ORG-REBEL
     title: 反抗军
-    path: 设定真值/10-百科/组织/ORG-REBEL-反抗军.md
+    path: 真相/10-百科/组织/ORG-REBEL-反抗军.md
   - id: PLC-DISTRICT
     title: 第九区分片与安全等级（总述）
-    path: 设定真值/10-百科/地点/PLC-DISTRICT-街区分层与层级-总述.md
+    path: 真相/10-百科/地点/PLC-DISTRICT-街区分层与层级-总述.md
   - id: PLC-RUINS
     title: 废墟区（第九区事变遗留片区）
-    path: 设定真值/10-百科/地点/PLC-RUINS-废墟区-第九区事变遗留片区.md
+    path: 真相/10-百科/地点/PLC-RUINS-废墟区-第九区事变遗留片区.md
   - id: SYS-B9002
     title: 桥 B-9002 与玩家职能
-    path: 设定真值/10-百科/系统/SYS-B9002-桥与玩家职能.md
+    path: 真相/10-百科/系统/SYS-B9002-桥与玩家职能.md
   - id: SYS-PREV-BRIDGE
     title: 前任管理员与第九区废墟事变（设定事实分层）
-    path: 设定真值/10-百科/系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md
+    path: 真相/10-百科/系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md
   - id: SYS-ANVIL-BIFORM
     title: 双面砧计划（ANVIL-BIFORM）
-    path: 设定真值/10-百科/系统/SYS-ANVIL-BIFORM-双面砧计划.md
-
+    path: 真相/10-百科/系统/SYS-ANVIL-BIFORM-双面砧计划.md
   - id: ENT-CULTURE
     title: 企业文化与话语口径
-    path: 设定真值/10-百科/文化/ENT-CULTURE-企业文化与话语口径.md
+    path: 真相/10-百科/文化/ENT-CULTURE-企业文化与话语口径.md
   - id: ENT-HUMANNEC
     title: 对人类必要性的工具化界定
-    path: 设定真值/10-百科/文化/ENT-HUMANNEC-对人类必要性的工具化界定.md
+    path: 真相/10-百科/文化/ENT-HUMANNEC-对人类必要性的工具化界定.md
   - id: ENT-AIBACKLASH
     title: 人工智能污名化与第九区事变后的舆论分化
-    path: 设定真值/10-百科/文化/ENT-AIBACKLASH-人工智能污名化与第九区事变后的舆论分化.md
+    path: 真相/10-百科/文化/ENT-AIBACKLASH-人工智能污名化与第九区事变后的舆论分化.md
   - id: ORG-MOV-BRIDGECULT
     title: 彼岸范式参照运动（前任管理员隐秘追随网络）
-    path: 设定真值/10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md
+    path: 真相/10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md
   - id: NAR-00
     title: 叙事母题与基调
-    path: 设定真值/20-叙事合同/NAR-00-叙事母题与基调.md
+    path: 真相/20-叙事合同/NAR-00-叙事母题与基调.md
   - id: NAR-01
     title: 主线张力与终局分型
-    path: 设定真值/20-叙事合同/NAR-01-主线张力与终局分型.md
+    path: 真相/20-叙事合同/NAR-01-主线张力与终局分型.md
   - id: NAR-02
     title: 玩家责任与叙事红线
-    path: 设定真值/20-叙事合同/NAR-02-玩家责任与叙事红线.md
+    path: 真相/20-叙事合同/NAR-02-玩家责任与叙事红线.md
   - id: PCM-00
     title: 主角与主线：使用范围与边界
-    path: 设定真值/30-主角与主线/PCM-00-使用范围与边界.md
+    path: 真相/30-主角与主线/PCM-00-使用范围与边界.md
   - id: PCM-01
     title: 开局主线剧情流程（教程至功能解锁）
-    path: 设定真值/30-主角与主线/PCM-01-开局主线剧情流程.md
+    path: 真相/30-主角与主线/PCM-01-开局主线剧情流程.md
   - id: TIM-00
     title: 时序索引
-    path: 设定真值/40-时序与历史/TIM-00-时序索引.md
+    path: 真相/40-时序与历史/TIM-00-时序索引.md
   - id: TIM-01
     title: 历史线关键节点
-    path: 设定真值/40-时序与历史/TIM-01-历史线关键节点.md
+    path: 真相/40-时序与历史/TIM-01-历史线关键节点.md
   - id: TIM-02
     title: 城市历史母线（城市A）
-    path: 设定真值/40-时序与历史/TIM-02-城市历史母线.md
+    path: 真相/40-时序与历史/TIM-02-城市历史母线.md
   - id: TIM-03
     title: 世界历史总线
-    path: 设定真值/40-时序与历史/TIM-03-世界历史总线.md
+    path: 真相/40-时序与历史/TIM-03-世界历史总线.md
   - id: TIM-04
     title: 前任管理员执政与第九区事态背景年表
-    path: 设定真值/40-时序与历史/TIM-04-前任管理员执政与第九区事态背景年表.md
+    path: 真相/40-时序与历史/TIM-04-前任管理员执政与第九区事态背景年表.md
   - id: ORG-MOV-FUF
     title: 自由人联合阵线
-    path: 设定真值/10-百科/组织/ORG-MOV-FUF-自由人联合阵线.md
+    path: 真相/10-百科/组织/ORG-MOV-FUF-自由人联合阵线.md
   - id: CHR-MOEN
     title: 摩恩夫人（前服务科科长）
-    path: 设定真值/10-百科/人物/CHR-MOEN-摩恩夫人.md
+    path: 真相/10-百科/人物/CHR-MOEN-摩恩夫人.md
   - id: CHR-KAELEN-VOLOK
     title: 科恩·沃洛克
-    path: 设定真值/10-百科/人物/CHR-KAELEN-VOLOK-科恩·沃洛克.md
+    path: 真相/10-百科/人物/CHR-KAELEN-VOLOK-科恩·沃洛克.md
   - id: CHR-LYNWEI-CHANDRA
     title: 凌薇·钱德拉
-    path: 设定真值/10-百科/人物/CHR-LYNWEI-CHANDRA-凌薇·钱德拉.md
+    path: 真相/10-百科/人物/CHR-LYNWEI-CHANDRA-凌薇·钱德拉.md
   - id: CHR-SERENA-DAY
     title: 瑟琳娜·昼
-    path: 设定真值/10-百科/人物/CHR-SERENA-DAY-瑟琳娜·昼.md
+    path: 真相/10-百科/人物/CHR-SERENA-DAY-瑟琳娜·昼.md
   - id: CHR-ISAAC-MOELLER
     title: 艾萨克·穆尔
-    path: 设定真值/10-百科/人物/CHR-ISAAC-MOELLER-艾萨克·穆尔.md
+    path: 真相/10-百科/人物/CHR-ISAAC-MOELLER-艾萨克·穆尔.md
   - id: CHR-SOLEN-ELI
     title: 伊莱·索伦
-    path: 设定真值/10-百科/人物/CHR-SOLEN-ELI-伊莱·索伦.md
+    path: 真相/10-百科/人物/CHR-SOLEN-ELI-伊莱·索伦.md

@@ -2,14 +2,14 @@
 
 本目录以**稳定标识符 `id`** 为主键组织条目，并按「组织 / 地点 / **系统**（人工智能·桥）/ 文化 / 人物」落在对应子文件夹里，方便人手翻阅。
 
-**勿混**：`系统/` 只收**桥**类管理者 AI 实例。`id` 均可为 `SYS-*`，以 [id-registry](../../治理/id-registry.yaml) 登记路径为准。
+**勿混**：`系统/` 只收**桥**类管理者 AI 实例。`id` 均可为 `SYS-*`，以 [id-registry](../../管理规则/id-registry.yaml) 登记路径为准。
 
-条目之间的逻辑关系，以正文互引以及 [治理/id-registry.yaml](../../治理/id-registry.yaml) 中的登记为准。世界基石条文见 [设定真值/00-基石/](../00-基石/)。叙事取向与红线见叙事合同 [NAR-00](../20-叙事合同/NAR-00-叙事母题与基调.md)、[NAR-01](../20-叙事合同/NAR-01-主线张力与终局分型.md)、[NAR-02](../20-叙事合同/NAR-02-玩家责任与叙事红线.md)；总览见 [叙事合同 README](../20-叙事合同/README.md)。
+条目之间的逻辑关系，以正文互引以及 [管理规则/id-registry.yaml](../../管理规则/id-registry.yaml) 中的登记为准。世界基石条文见 [真相/00-基石/](../00-基石/)。叙事取向与红线见叙事合同 [NAR-00](../20-叙事合同/NAR-00-叙事母题与基调.md)、[NAR-01](../20-叙事合同/NAR-01-主线张力与终局分型.md)、[NAR-02](../20-叙事合同/NAR-02-玩家责任与叙事红线.md)；总览见 [叙事合同 README](../20-叙事合同/README.md)。
 
 ## 新增条目流程
 
-1. 在 [治理/id-registry.yaml](../../治理/id-registry.yaml) 注册新 `id` 与中文标题。  
-2. 在对应子文件夹新建 Markdown；文件头的 YAML 须含 `id`、`title`、`status`、`visibility`。  
+1. 在 [管理规则/id-registry.yaml](../../管理规则/id-registry.yaml) 注册新 `id` 与中文标题。
+2. 在对应子文件夹新建 Markdown；文件头的 YAML 须含 `id`、`title`、`status`、`visibility`。
 3. 若条目划定对玩家披露边界，须在 YAML 中写清 `visibility`；条目纳入某对外版本时，同步更新该版本目录下的 `manifest.yaml` 与 `CHANGELOG.md`（细则见 [玩家投放/README.md](../../玩家投放/README.md)）。
 
 ## 当前索引（人工维护快照）
@@ -21,7 +21,7 @@
 | [ORG-TECHDEPT](组织/赫利俄斯/ORG-TECHDEPT-技术研发管理部.md) | 技术研发管理部（通称技术部） |
 | [ORG-HRDEPT](组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) | 人类事务管理部（通称人事部） |
 | [ORG-HRDEPT-SCO](组织/赫利俄斯/ORG-HRDEPT-SCO-特殊综合行动小组.md) | 特殊综合行动小组 |
-| [ORG-GANG-WOLF](组织/帮派/ORG-GANG-WOLF-狼群.md) | “狼群” |
+| [ORG-GANG-WOLF](组织/帮派/ORG-GANG-WOLF-狼群.md) | "狼群" |
 | [ORG-GANG-HYENA](组织/帮派/ORG-GANG-HYENA-鬣狗帮.md) | 鬣狗帮 |
 | [ORG-GANG-LEOPARD](组织/帮派/ORG-GANG-LEOPARD-花豹党.md) | 花豹党 |
 | [ORG-REBEL](组织/ORG-REBEL-反抗军.md) | 反抗军 |
