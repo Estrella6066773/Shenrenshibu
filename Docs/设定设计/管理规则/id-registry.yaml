@@ -1,4 +1,4 @@
-# 设定 id 注册表（正文文档库）
+﻿# 设定 id 注册表（正文文档库）
 # 新增条目要在此登记之后，再创建设定真值正文。
 registry_version: 1
 entries:
@@ -73,13 +73,13 @@ entries:
     path: 真相/10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md
   - id: NAR-00
     title: 叙事母题与基调
-    path: 真相/20-叙事合同/NAR-00-叙事母题与基调.md
+    path: 真相/20-叙事规范/NAR-00-叙事母题与基调.md
   - id: NAR-01
     title: 主线张力与终局分型
-    path: 真相/20-叙事合同/NAR-01-主线张力与终局分型.md
+    path: 真相/20-叙事规范/NAR-01-主线张力与终局分型.md
   - id: NAR-02
     title: 玩家责任与叙事红线
-    path: 真相/20-叙事合同/NAR-02-玩家责任与叙事红线.md
+    path: 真相/20-叙事规范/NAR-02-玩家责任与叙事红线.md
   - id: PCM-00
     title: 主角与主线：使用范围与边界
     path: 真相/30-主角与主线/PCM-00-使用范围与边界.md

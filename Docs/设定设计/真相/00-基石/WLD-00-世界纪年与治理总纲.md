@@ -1,4 +1,4 @@
----
+﻿---
 id: WLD-00
 title: 世界纪年与治理总纲
 status: active
@@ -47,5 +47,5 @@ visibility: internal
 - [ORG-HELIOS](../10-百科/组织/赫利俄斯/ORG-HELIOS-赫利俄斯集团.md) 赫利俄斯集团  
 - [ORG-HRDEPT](../10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
 - [ORG-HRDEPT-SCO](../10-百科/组织/赫利俄斯/ORG-HRDEPT-SCO-特殊综合行动小组.md) 特殊综合行动小组  
-- [NAR-00](../20-叙事合同/NAR-00-叙事母题与基调.md) 叙事母题与基调
+- [NAR-00](../20-叙事规范/NAR-00-叙事母题与基调.md) 叙事母题与基调
 
