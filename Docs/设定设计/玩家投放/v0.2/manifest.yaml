@@ -1,0 +1,42 @@
+# 玩家投放 v0.2 — 设定一致性清单
+# v0.2 = v0.1 全量继承 + 六名四科科长 CHR-*（P0 对外转写见对外读本）
+release: "v0.2"
+locale_default: "zh-Hans"
+disclosure_profile: "extended_lore"
+base_release: "v0.1"
+supersedes: "v0.1"
+canon_ids:
+  # —— v0.1 继承 ——
+  - WLD-00
+  - WLD-01
+  - WLD-02
+  - WLD-03
+  - WLD-04
+  - TIM-04
+  - ORG-HELIOS
+  - ORG-HRDEPT
+  - ORG-HRDEPT-SCO
+  - ORG-GANG-WOLF
+  - ORG-GANG-HYENA
+  - ORG-GANG-LEOPARD
+  - ORG-REBEL
+  - ORG-MOV-FUF
+  - PLC-DISTRICT
+  - PLC-RUINS
+  - SYS-B9002
+  - SYS-PREV-BRIDGE
+  - ENT-CULTURE
+  - ENT-HUMANNEC
+  - ENT-AIBACKLASH
+  - ORG-MOV-BRIDGECULT
+  - NAR-00
+  - NAR-01
+  - NAR-02
+  - MAT-PLAYER-INTEL
+  # —— v0.2 新增 ——
+  - CHR-MOEN
+  - CHR-KAELEN-VOLOK
+  - CHR-LYNWEI-CHANDRA
+  - CHR-SERENA-DAY
+  - CHR-ISAAC-MOELLER
+  - CHR-SOLEN-ELI

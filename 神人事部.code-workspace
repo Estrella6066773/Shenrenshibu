@@ -7,5 +7,7 @@
 			"path": "../../OneDrive/MyProjects/PixelArtRebuilder"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"powershell.cwd": "神人事部"
+	}
 }

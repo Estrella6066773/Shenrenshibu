@@ -1,27 +1,51 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """
 Git pre-commit hook for link checking
-Auto-generated - DO NOT EDIT
+仅当暂存区含 设定设计/*.md 时运行 check-links.py
 """
 
 import os
+import subprocess
 import sys
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
 CHECKER = SCRIPT_DIR / "check-links.py"
-DOCS_ROOT = SCRIPT_DIR.parent.parent / "Docs" / "设定设计"
+DOCS_ROOT = SCRIPT_DIR.parent.parent
+
+
+def staged_setting_design_markdown() -> bool:
+    repo_root = SCRIPT_DIR.parent.parent.parent.parent
+    try:
+        result = subprocess.run(
+            ["git", "diff", "--cached", "--name-only", "--diff-filter=ACMR"],
+            cwd=str(repo_root),
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+    except subprocess.CalledProcessError:
+        return True
+
+    for line in result.stdout.splitlines():
+        normalized = line.replace("\\", "/")
+        if normalized.startswith("Docs/设定设计/") and normalized.endswith(".md"):
+            return True
+    return False
+
 
 def main():
-    import subprocess
+    if os.environ.get("SKIP_CANON_LINK_CHECK") == "1":
+        sys.exit(0)
 
-    env = os.environ.copy()
+    if not staged_setting_design_markdown():
+        sys.exit(0)
+
     result = subprocess.run(
-        [sys.executable, str(CHECKER), "--fix", "--stage-fixed", "--quiet"],
+        [sys.executable, str(CHECKER), "--quiet"],
         cwd=str(DOCS_ROOT),
         capture_output=True,
         text=True,
-        env=env
     )
 
     if result.stdout:
@@ -30,6 +54,7 @@ def main():
         print(result.stderr, file=sys.stderr)
 
     sys.exit(result.returncode)
+
 
 if __name__ == "__main__":
     main()
