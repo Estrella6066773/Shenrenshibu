@@ -12,6 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Fail if local-secret paths are tracked
+        run: python Scripts/verify-local-secrets-guard.py
+
       - name: Fail if new markdown under Assets/00_Docs
         shell: bash
         run: |

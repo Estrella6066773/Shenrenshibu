@@ -107,6 +107,11 @@ InitTestScene*.unity*
 # Unity 目录监视临时文件
 ~UnityDirMonSyncFile~*
 
+# 作者禁写层（本地保留，不进 Git / UVC）
+/Docs-local/
+# 文件名前缀屏蔽（与 Docs/00-规范/禁写层-本地说明.md §第四条同步）
+**/SET-EMB-[0-9]*
+
 # Cursor AI 规则（本地配置，不进库）
 .cursor/rules/
 
