@@ -1,4 +1,4 @@
----
+﻿---
 title: 伊莱·索伦
 status: draft-for-canon
 visibility: internal
@@ -86,5 +86,5 @@ role: 人类事务管理部 · 部长
 
 ## 关联正文（拟）
 
-- [TIM04-SYS-PREV 增补](../前管理者叙事改版/TIM04-SYS-PREV-前管理者事变后年表与真值分层增补-草稿.md)  
+- [TIM04-SYS-PREV 增补](../前管理者叙事改版/TIM04-SYS-PREV-前管理者事变后年表与设定分层增补-草稿.md)  
 - [SYS-PREV-BRIDGE](../../../../真相/10-百科/系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md)、[SYS-B9002](../../../../真相/10-百科/系统/SYS-B9002-桥与玩家职能.md)  

@@ -1,4 +1,4 @@
-# 《神人事部》项目文档
+﻿# 《神人事部》项目文档
 
 **GitHub 仓库（唯一）：** [Estrella6066773/ShenrenshibuStoryLib](https://github.com/Estrella6066773/ShenrenshibuStoryLib)  
 远程：`git@github.com:Estrella6066773/ShenrenshibuStoryLib.git`
@@ -14,7 +14,7 @@
 | [00-规范/](00-规范/) | **跨库**治理：待细化追踪、三分库边界说明 |
 | [系统设计/](系统设计/) | 玩家体验、玩法规则、流程、数值**设计意图** |
 | [程序设计/](程序设计/) | 运行时架构、逻辑规范、数据字典、引擎映射 |
-| [设定设计/](设定设计/) | 世界观、角色、叙事真值、玩家投放 |
+| [设定设计/](设定设计/) | 世界观、角色、叙事设定、玩家投放 |
 | [_templates/](_templates/) | 文档模板 |
 
 ## 分工

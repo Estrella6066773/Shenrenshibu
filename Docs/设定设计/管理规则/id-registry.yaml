@@ -1,5 +1,5 @@
 ﻿# 设定 id 注册表（正文文档库）
-# 新增条目要在此登记之后，再创建设定真值正文。
+# 新增条目要在此登记之后，再创建设定母本正文。
 registry_version: 1
 entries:
   - id: WLD-00
@@ -24,8 +24,8 @@ entries:
     title: 军用武装管理部（通称军武部／军部）
     path: 真相/10-百科/组织/赫利俄斯/ORG-MILDEPT-军用武装管理部.md
   - id: ORG-TECHDEPT
-    title: 技术研发管理部（通称技术部）
-    path: 真相/10-百科/组织/赫利俄斯/ORG-TECHDEPT-技术研发管理部.md
+    title: 科学技术管理部（通称科技部）
+    path: 真相/10-百科/组织/赫利俄斯/ORG-TECHDEPT-科学技术管理部.md
   - id: ORG-HRDEPT
     title: 人类事务管理部（通称人事部）
     path: 真相/10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md

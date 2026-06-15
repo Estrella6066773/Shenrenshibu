@@ -9,7 +9,7 @@ visibility: internal
 
 ## 第一条　适用范围
 
-本条文只界定**人类事务管理部**（[ORG-HRDEPT](../10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md)）内部的权力划分与相互牵制。集团总部另设 **军武部**（[ORG-MILDEPT](../10-百科/组织/赫利俄斯/ORG-MILDEPT-军用武装管理部.md)）、**技术部**（[ORG-TECHDEPT](../10-百科/组织/赫利俄斯/ORG-TECHDEPT-技术研发管理部.md)）等事业部的细部科层，见各 ORG 条文及 [ORG-HELIOS](../10-百科/组织/赫利俄斯/ORG-HELIOS-赫利俄斯集团.md) 第三条。
+本条文只界定**人类事务管理部**（[ORG-HRDEPT](../10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md)）内部的权力划分与相互牵制。集团总部另设 **军武部**（[ORG-MILDEPT](../10-百科/组织/赫利俄斯/ORG-MILDEPT-军用武装管理部.md)）、**科技部**（[ORG-TECHDEPT](../10-百科/组织/赫利俄斯/ORG-TECHDEPT-科学技术管理部.md)）等事业部的细部科层，见各 ORG 条文及 [ORG-HELIOS](../10-百科/组织/赫利俄斯/ORG-HELIOS-赫利俄斯集团.md) 第三条。
 
 ## 第二条　部长统筹与四科分权
 
