@@ -10,5 +10,6 @@
 | [CHR-SERENA-DAY](CHR-SERENA-DAY-瑟琳娜·昼.md) | 瑟琳娜·昼 |
 | [CHR-ISAAC-MOELLER](CHR-ISAAC-MOELLER-艾萨克·穆尔.md) | 艾萨克·穆尔 |
 | [CHR-SOLEN-ELI](CHR-SOLEN-ELI-伊莱·索伦.md) | 伊莱·索伦 |
+| [CHR-LINDU](CHR-LINDU-林杜.md) | 林杜 |
 
 辅助矩阵：[06-玩家情报层级与投放矩阵](06-玩家情报层级与投放矩阵.md)（`id`: MAT-PLAYER-INTEL）。
