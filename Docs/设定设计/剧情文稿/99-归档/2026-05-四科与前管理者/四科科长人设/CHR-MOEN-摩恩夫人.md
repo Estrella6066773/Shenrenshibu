@@ -107,6 +107,6 @@ role: 前服务科科长；艾萨克·穆尔恩师（非四科现任）
 
 ## 关联正文（拟）
 
-- [TIM-04 增补草稿](../前管理者叙事改版/TIM04-SYS-PREV-前管理者事变后年表与设定分层增补-草稿.md)  
+- [TIM-04 增补草稿](../前管理者叙事改版/TIM04-SYS-PREV-前管理者事变后年表与真值分层增补-草稿.md)  
 - [SYS-PREV-BRIDGE](../../../../真相/10-百科/系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md)  
 - [CHR-ISAAC-MOELLER-艾萨克·穆尔.md](CHR-ISAAC-MOELLER-艾萨克·穆尔.md)  

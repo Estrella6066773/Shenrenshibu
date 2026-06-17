@@ -66,6 +66,6 @@ visibility: internal
 ## 第六条　关联条文
 
 - [SYS-PREV-BRIDGE](../系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md)
-- [ORG-MOV-BRIDGECULT](../组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)
+- [ORG-MOV-BRIDGECULT](../组织/ORG-MOV-BRIDGECULT-联结会.md)
 - [ORG-HRDEPT](../组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md)
 - [SYS-B9002](../系统/SYS-B9002-桥与玩家职能.md)

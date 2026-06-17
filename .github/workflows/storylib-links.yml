@@ -24,4 +24,4 @@ jobs:
           python-version: "3.12"
 
       - name: Run check-links.py
-        run: python 设定设计/管线/检查/check-links.py
+        run: python 设定设计/工具/检查/check-links.py
