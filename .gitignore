@@ -124,3 +124,11 @@ InitTestScene*.unity*
 ehthumbs.db
 Thumbs.db
 Desktop.ini
+
+# Cursor 个人通用规则（来自独立 rules 仓库，不纳入本项目 Git）
+.cursor/rules/common/
+.cursor/rules/imported/
+.cursor/rules/*.mdc
+!.cursor/rules/local/
+!.cursor/rules/local/**
+.cursor/personal-rules.json

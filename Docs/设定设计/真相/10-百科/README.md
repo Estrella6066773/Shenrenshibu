@@ -35,6 +35,7 @@
 | [ENT-CULTURE](文化/ENT-CULTURE-企业文化与话语口径.md) | 企业文化与话语口径 |
 | [ENT-HUMANNEC](文化/ENT-HUMANNEC-对人类必要性的工具化界定.md) | 对人类必要性的工具化界定 |
 | [ENT-AIBACKLASH](文化/ENT-AIBACKLASH-人工智能污名化与第九区事变后的舆论分化.md) | 人工智能污名化与第九区事变后的舆论分化 |
+| [ENT-FAITH-NINTH](文化/ENT-FAITH-NINTH-第九区民间信仰生态.md) | 第九区民间信仰生态（萨满教、造主教与分支） |
 | [CHR-SOLEN-ELI](人物/CHR-SOLEN-ELI-伊莱·索伦.md) | 伊莱·索伦（人事部部长） |
 | [CHR-KAELEN-VOLOK](人物/CHR-KAELEN-VOLOK-科恩·沃洛克.md) | 科恩·沃洛克（防卫科科长） |
 | [CHR-ISAAC-MOELLER](人物/CHR-ISAAC-MOELLER-艾萨克·穆尔.md) | 艾萨克·穆尔（服务科科长） |
