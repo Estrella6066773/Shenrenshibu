@@ -112,8 +112,8 @@ InitTestScene*.unity*
 # 文件名前缀屏蔽（与 Docs/00-规范/禁写层-本地说明.md §第四条同步）
 **/SET-EMB-[0-9]*
 
-# Cursor AI 规则（本地配置，不进库）
-.cursor/rules/
+# Cursor（本地 IDE / Agent 配置，不进 Git）
+.cursor/
 
 # 操作系统
 .DS_Store
@@ -124,11 +124,3 @@ InitTestScene*.unity*
 ehthumbs.db
 Thumbs.db
 Desktop.ini
-
-# Cursor 个人通用规则（来自独立 rules 仓库，不纳入本项目 Git）
-.cursor/rules/common/
-.cursor/rules/imported/
-.cursor/rules/*.mdc
-!.cursor/rules/local/
-!.cursor/rules/local/**
-.cursor/personal-rules.json
