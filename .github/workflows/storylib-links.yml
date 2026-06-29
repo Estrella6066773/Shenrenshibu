@@ -4,11 +4,11 @@ name: StoryLib link check
 on:
   push:
     paths:
-      - "Docs/设定设计/**"
+      - "Docs/04-设定/**"
       - ".github/workflows/storylib-links.yml"
   pull_request:
     paths:
-      - "Docs/设定设计/**"
+      - "Docs/04-设定/**"
       - ".github/workflows/storylib-links.yml"
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install checker dependencies
-        run: pip install -r 设定设计/工具/检查/requirements.txt
+        run: pip install -r 04-设定/工具/检查/requirements.txt
 
       - name: Run check-links.py
-        run: python 设定设计/工具/检查/check-links.py
+        run: python 04-设定/工具/检查/check-links.py

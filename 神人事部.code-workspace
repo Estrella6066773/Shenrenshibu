@@ -8,6 +8,9 @@
 		}
 	],
 	"settings": {
-		"powershell.cwd": "神人事部"
+		"powershell.cwd": "神人事部",
+		"dotrush.roslyn.projectOrSolutionFiles": [
+			"d:\\Unity\\神人事部\\神人事部.sln"
+		]
 	}
 }
