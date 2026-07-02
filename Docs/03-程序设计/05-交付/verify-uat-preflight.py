@@ -26,6 +26,11 @@ VERIFIER_GUID = "b8c9d0e1f2a3546576879abcdef01234"
 ECONOMY_GUID = "0c85c88ca0834f340b476568180ae249"
 EVENT_BUS_GUID = "a4146549165edc54dac65fc22f7742ed"
 MAIN_SCENE_GUID = "fad4afe1aeae41f4b8bff47c7886e5c1"
+MAIN_MENU_GUID = "57649e30a457d2f44a9035bf193ba6cc"
+MAIN_MENU_CONTROLLER_GUID = "dd961827319a2d34faedf4e55a0058d9"
+MAIN_MENU_SCENE = ROOT / "Assets/05_Scenes/主菜单.unity"
+SAVE_COLLECTION_TEST = ROOT / "Assets/01_Scripts/Tests/PlayMode/SaveCollectionPlayModeTests.cs"
+SCENE_FLOW_SETUP = ROOT / "Assets/01_Scripts/Editor/SceneFlowSetupMenu.cs"
 DAILY_IDS = ("daily01", "daily02", "daily03")
 
 
@@ -65,6 +70,39 @@ def check_build_settings(failures: list[str]) -> None:
     text = BUILD_SETTINGS.read_text(encoding="utf-8")
     if MAIN_SCENE_GUID not in text:
         failures.append("Editor Build Settings missing 主场景 guid")
+
+    if MAIN_MENU_GUID not in text:
+        failures.append("Editor Build Settings missing 主菜单 guid")
+
+    if MAIN_MENU_SCENE.is_file():
+        if MAIN_MENU_GUID not in text.split("m_Scenes:")[1][:200] if "m_Scenes:" in text else "":
+            failures.append("Build Settings index 0 不是主菜单场景")
+    else:
+        failures.append("missing scene: Assets/05_Scenes/主菜单.unity（请运行 神人事部/场景/安装主菜单场景）")
+
+
+def check_main_menu_code(failures: list[str]) -> None:
+    if not SCENE_FLOW_SETUP.is_file():
+        failures.append("missing SceneFlowSetupMenu.cs")
+    if not SAVE_COLLECTION_TEST.is_file():
+        failures.append("missing SaveCollectionPlayModeTests.cs")
+
+    main_menu_controller = ASSETS / "01_Scripts/Presentation/MainMenu/MainMenuController.cs"
+    if not main_menu_controller.is_file():
+        failures.append("missing MainMenuController.cs")
+
+    game_scene_ids = ASSETS / "01_Scripts/Runtime/SceneFlow/GameSceneIds.cs"
+    if not game_scene_ids.is_file():
+        failures.append("missing GameSceneIds.cs")
+
+    if MAIN_MENU_SCENE.is_file():
+        text = MAIN_MENU_SCENE.read_text(encoding="utf-8")
+        if MAIN_MENU_CONTROLLER_GUID not in text:
+            failures.append("主菜单.unity: missing MainMenuController script")
+        if "Canvas" not in text:
+            failures.append("主菜单.unity: missing Canvas")
+        if "EventSystem" not in text:
+            failures.append("主菜单.unity: missing EventSystem")
 
 
 def check_code_uat(failures: list[str]) -> None:
@@ -141,6 +179,7 @@ def main() -> int:
     failures: list[str] = []
     check_daily_scene(failures)
     check_build_settings(failures)
+    check_main_menu_code(failures)
     check_code_uat(failures)
     check_docs_uat_record(failures)
 
